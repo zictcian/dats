@@ -19,6 +19,7 @@ export default {
     HelloWorld
   }
 }
+var FB
 window.fbAsyncInit = function() {
           FB.init({
             xfbml            : true,
